@@ -483,8 +483,15 @@ C:\Users\samge\Desktop\TP prog web\LeBataillon\CEM.A20._3w6.LeBataillon\LeBatail
 C:\Users\samge\Desktop\TP prog web\LeBataillon\CEM.A20._3w6.LeBataillon\LeBataillon.Test\obj\Debug\net5.0\LeBataillon.Test.csprojAssemblyReference.cache
 C:\Users\samge\Desktop\TP prog web\LeBataillon\CEM.A20._3w6.LeBataillon\LeBataillon.Test\obj\Debug\net5.0\LeBataillon.Test.AssemblyInfoInputs.cache
 C:\Users\samge\Desktop\TP prog web\LeBataillon\CEM.A20._3w6.LeBataillon\LeBataillon.Test\obj\Debug\net5.0\LeBataillon.Test.AssemblyInfo.cs
-C:\Users\samge\Desktop\TP prog web\LeBataillon\CEM.A20._3w6.LeBataillon\LeBataillon.Test\obj\Debug\net5.0\LeBataillon.Test.csproj.CoreCompileInputs.cache
 C:\Users\samge\Desktop\TP prog web\LeBataillon\CEM.A20._3w6.LeBataillon\LeBataillon.Test\obj\Debug\net5.0\LeBataillon.Test.csproj.CopyComplete
 C:\Users\samge\Desktop\TP prog web\LeBataillon\CEM.A20._3w6.LeBataillon\LeBataillon.Test\obj\Debug\net5.0\LeBataillon.Test.dll
 C:\Users\samge\Desktop\TP prog web\LeBataillon\CEM.A20._3w6.LeBataillon\LeBataillon.Test\obj\Debug\net5.0\LeBataillon.Test.pdb
 C:\Users\samge\Desktop\TP prog web\LeBataillon\CEM.A20._3w6.LeBataillon\LeBataillon.Test\obj\Debug\net5.0\LeBataillon.Test.genruntimeconfig.cache
+C:\Users\samge\Desktop\TP prog web\LeBataillon\CEM.A20._3w6.LeBataillon\LeBataillon.Test\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\samge\Desktop\TP prog web\LeBataillon\CEM.A20._3w6.LeBataillon\LeBataillon.Test\obj\Debug\net5.0\LeBataillon.Test.csproj.CoreCompileInputs.cache
+C:\Users\samge\Desktop\TP prog web\LeBataillon\CEM.A20._3w6.LeBataillon\LeBataillon.Test\bin\Debug\net5.0\EntityFramework.SqlServer.dll
+C:\Users\samge\Desktop\TP prog web\LeBataillon\CEM.A20._3w6.LeBataillon\LeBataillon.Test\bin\Debug\net5.0\EntityFramework.dll
+C:\Users\samge\Desktop\TP prog web\LeBataillon\CEM.A20._3w6.LeBataillon\LeBataillon.Test\bin\Debug\net5.0\System.CodeDom.dll
+C:\Users\samge\Desktop\TP prog web\LeBataillon\CEM.A20._3w6.LeBataillon\LeBataillon.Test\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\samge\Desktop\TP prog web\LeBataillon\CEM.A20._3w6.LeBataillon\LeBataillon.Test\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\samge\Desktop\TP prog web\LeBataillon\CEM.A20._3w6.LeBataillon\LeBataillon.Test\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
